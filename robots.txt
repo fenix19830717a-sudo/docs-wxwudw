@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-59g6bl.juragan89alt.site/sitemap.xml
